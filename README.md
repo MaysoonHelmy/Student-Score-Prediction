@@ -158,6 +158,3 @@ This project demonstrates a full lifecycle of predictive modeling in education. 
 
 The best-performing model — **Linear Regression with All Features** — delivers the highest test R² (0.736) and lowest MSE (3.728), making it suitable for real-world applications.
 
-Use this repository as a template for future projects involving regression, feature engineering, and model comparison!
-
-
